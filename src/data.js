@@ -1,0 +1,26 @@
+const data = {
+  hotel_name: 'Cadet Residence',
+  location: 'Paris',
+  country: 'France',
+  address: '7, Rue Cadet, 9th arr., 75009 Paris, France',
+  zip: '75009',
+  address: '7, Rue Cadet, 9th arr., 75009 Paris, France',
+  adults: 2,
+  check_in: '2022-10-30',
+  check_out: '2022-11-16',
+  children: [],
+  coordinates: (2)[('48.87477295', '2.34276339')],
+  country: 'France',
+  currency: 'EUR',
+  language: 'en',
+  location: 'Paris',
+  no_rooms: 1,
+  price: 3050,
+  priceWithTaxes: 3050,
+  price_type: 'stay',
+  taxes: 0,
+  url: 'https://www.booking.com/hotel/fr/cosy-s-residence-cadet.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaIgBiAEBmAExuAEXyAEM2AEB6AEB-AEMiAIBqAIDuAKItNCaBsACAdICJDNiMjlkNjJjLTEyNTItNGFjNC1hZDljLTdiYWRhNDBlZmI2NtgCBuACAQ&sid=5483c0fe532544406df89c61d6ecdb7a&all_sr_blocks=7665401_339272373_2_0_0;checkin=2022-10-30;checkout=2022-11-16;dest_id=-1456928;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=7;highlighted_blocks=7665401_339272373_2_0_0;hpos=7;matching_block_id=7665401_339272373_2_0_0;no_rooms=1;req_adults=2;req_children=0;room1=A%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=7665401_339272373_2_0_0__304997;srepoch=1666456085;srpvid=518273c96fc0005e;type=total;ucfs=1&#hotelTmpl',
+  zip: '75009',
+};
+
+module.exports = data;
